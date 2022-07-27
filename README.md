@@ -1,2 +1,2 @@
 # FirstWebsite
-My first website using only HTML and CSS/Flexboz
+My first website using only HTML and CSS/Flexbox
